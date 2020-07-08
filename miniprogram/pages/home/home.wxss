@@ -1,0 +1,4 @@
+/* miniprogram/pages/home/home.wxss */
+.title_news{
+  font-size: 26px;
+}

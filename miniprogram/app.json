@@ -1,0 +1,20 @@
+{
+  "pages": [
+    "pages/home/home",
+    "pages/index/index"
+  ],
+  "window": {
+    "backgroundColor": "#f9f9f9",
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#000000",
+    "navigationBarTitleText": "绿鲜综",
+    "navigationStyle": "custom",
+    "navigationBarTextStyle": "white"
+  },
+  "usingComponents": {
+    "cu-custom": "./components/cu-custom/cu-custom",
+    "skeleton": "./components/skeleton/skeleton"
+  },
+  "sitemapLocation": "sitemap.json",
+  "style": "v2"
+}
